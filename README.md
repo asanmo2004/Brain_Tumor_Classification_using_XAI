@@ -94,6 +94,3 @@ Traditional AI systems for brain tumor detection lack transparency, limiting the
 - **Categorical Cross-Entropy Loss**
 
 ---
-
-## 📁 Folder Structure (Suggestion)
-
