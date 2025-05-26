@@ -37,14 +37,32 @@ Traditional AI systems for brain tumor detection lack transparency, limiting the
 ## 📊 Results
 
 <!-- Upload your plots or heatmaps here -->
-### 🖼️ Sample Outputs
-| CNN Prediction | ResNet50 Prediction | 
-|----------------|---------------------|------------------|
-| ![CNN](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/Lime%20Output%20for%20CNN.png) | ![ResNet50](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/Lime%20Output%20for%20Resnet.png) | 
+###  1. Project Workfloww
 
-> _Replace `github-image-link-*` with actual image URLs after uploading to your GitHub repo._
+![Workflow](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/WorkFlow.png)
 
 ---
+
+###  2. Predicted Classification
+
+![Predicted](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/Predicted%20Outputs.png)
+
+---
+
+###  3. Lime Output for CNN
+
+![CNN](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/Lime%20Output%20for%20CNN.png)
+
+---
+
+### 📈 4. Lime Output for Resnet50
+![Resnet50](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/Lime%20Output%20for%20Resnet.png)
+
+---
+
+### 📉 5. Training Accuracy
+
+![Accuracy](https://github.com/asanmo2004/Brain_Tumor_Classification_using_XAI/blob/main/Screenshots/Accuracy.png)
 
 ## ⚙️ Tech Stack
 
